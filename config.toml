@@ -4,7 +4,7 @@ title = "Fanyi"
 theme = "minimal"
 #disqusShortname = "username" # delete this to disable disqus comments
 #googleAnalytics = ""
-#option ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+option ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
     author = "Fanyi Cai"
